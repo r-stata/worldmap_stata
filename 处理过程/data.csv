@@ -1,0 +1,504 @@
+city,ratio,category,lon,lat
+Melbourne,1.3,between 0 and 2.5,144.96,-37.81
+Auckland,1.5,between 0 and 2.5,174.77,-36.87
+Adelaide,0.6,between 0 and 2.5,138.6,-34.93
+Montevideo,0.4,between 0 and 2.5,-56.17,-34.83
+Buenos Aires,1.3,between 0 and 2.5,-58.4,-34.61
+Cape Town,1.9,between 0 and 2.5,18.42,-33.93
+Port Elizabeth,1.3,between 0 and 2.5,25.57,-33.92
+Sydney,0.7,between 0 and 2.5,151.21,-33.87
+Santiago,0.9,between 0 and 2.5,-70.65,-33.46
+Rosario,1.2,between 0 and 2.5,-60.64,-32.95
+Mendoza,1.2,between 0 and 2.5,-68.83,-32.89
+Perth,1.8,between 0 and 2.5,115.85,-31.95
+Córdoba,0.7,between 0 and 2.5,-64.18,-31.41
+Pôrto Alegre,0.7,between 0 and 2.5,-51.23,-30.03
+Durban,1.3,between 0 and 2.5,31.03,-29.86
+Florianópolis,3.1,between 2.5 and 5,-48.55,-27.6
+Brisbane,1.8,between 0 and 2.5,153.03,-27.47
+Vereeniging,1.6,between 0 and 2.5,27.93,-26.67
+Joinville,1.8,between 0 and 2.5,-48.85,-26.3
+Johannesburg,3.4,between 2.5 and 5,28.04,-26.2
+Maputo,1,between 0 and 2.5,32.59,-25.97
+Pretoria,4.2,between 2.5 and 5,28.19,-25.74
+Curitiba,2.2,between 0 and 2.5,-49.27,-25.43
+Asunción,3,between 2.5 and 5,-57.64,-25.3
+Baixada Santista,1.1,between 0 and 2.5,-46.33,-23.96
+São Paulo,1.4,between 0 and 2.5,-46.64,-23.55
+Campinas,1.8,between 0 and 2.5,-47.07,-22.91
+Rio de Janeiro,0.9,between 0 and 2.5,-43.21,-22.9
+Grande Vitória,1.4,between 0 and 2.5,-40.31,-20.31
+Belo Horizonte,1.1,between 0 and 2.5,-43.94,-19.92
+Antananarivo,4.4,between 2.5 and 5,47.54,-18.91
+Harare,0.6,between 0 and 2.5,31.05,-17.83
+Santa Cruz,4.5,between 2.5 and 5,-63.17,-17.8
+Cochabamba,3.6,between 2.5 and 5,-66.16,-17.39
+Goiânia,2.2,between 0 and 2.5,-49.25,-16.68
+La Paz,1.7,between 0 and 2.5,-68.15,-16.5
+Brasília,2.3,between 0 and 2.5,-47.93,-15.78
+Lusaka,4.7,between 2.5 and 5,28.28,-15.41
+Salvador,1.4,between 0 and 2.5,-38.51,-12.97
+Huambo,5.2,5 or more,15.74,-12.78
+Lima,2,between 0 and 2.5,-77.03,-12.04
+Lubumbashi,4.1,between 2.5 and 5,27.48,-11.66
+Maceió,1.9,between 0 and 2.5,-35.74,-9.67
+Luanda,5,5 or more,13.23,-8.84
+Denpasar,6.6,5 or more,115.22,-8.65
+Recife,1,between 0 and 2.5,-34.88,-8.05
+Surabaya,0.6,between 0 and 2.5,112.74,-7.29
+João Pessoa,1.7,between 0 and 2.5,-34.86,-7.12
+Semarang,0.9,between 0 and 2.5,110.42,-6.99
+Bandung,1.2,between 0 and 2.5,107.61,-6.92
+Dar es Salaam,5.4,5 or more,39.27,-6.82
+Bogor,2.4,between 0 and 2.5,106.8,-6.61
+Jakarta,1.4,between 0 and 2.5,106.84,-6.21
+Mbuji-Mayi,4.6,between 2.5 and 5,23.6,-6.15
+Kananga,4.4,between 2.5 and 5,22.42,-5.9
+Natal,2,between 0 and 2.5,-35.21,-5.8
+Makassar (Ujung Pandang),2.2,between 0 and 2.5,119.42,-5.14
+Kinshasa,4.2,between 2.5 and 5,15.31,-4.33
+Brazzaville,4,between 2.5 and 5,15.28,-4.27
+Mombasa,3.2,between 2.5 and 5,39.66,-4.05
+Fortaleza,2,between 0 and 2.5,-38.54,-3.74
+Manaus,2.5,between 2.5 and 5,-60.03,-3.1
+Palembang,0,negative,104.75,-2.92
+Grande São Luís,2,between 0 and 2.5,-44.28,-2.54
+Guayaquil,1.8,between 0 and 2.5,-79.9,-2.17
+Kigali,5,5 or more,30.06,-1.95
+Belém,1.5,between 0 and 2.5,-48.48,-1.46
+Nairobi,3.8,between 2.5 and 5,36.82,-1.28
+Quito,1.6,between 0 and 2.5,-78.52,-0.23
+Kampala,3.8,between 2.5 and 5,32.58,0.32
+Kisangani,3.8,between 2.5 and 5,25.2,0.52
+Pekan Baru,4.3,between 2.5 and 5,101.45,0.53
+Batam,8,5 or more,104.03,1.12
+Singapore,2.4,between 0 and 2.5,103.85,1.29
+Muqdisho (Mogadishu),4,between 2.5 and 5,45.34,2.04
+Kuala Lumpur,3.3,between 2.5 and 5,101.69,3.14
+Cali,2,between 0 and 2.5,-76.52,3.44
+Medan,1,between 0 and 2.5,98.67,3.58
+Yaoundé,5.4,5 or more,11.52,3.87
+Douala,4.5,between 2.5 and 5,9.7,4.05
+Bogotá,2.8,between 2.5 and 5,-74.08,4.61
+Harcourt,5.1,5 or more,7.01,4.78
+Abidjan,3.2,between 2.5 and 5,-4.03,5.35
+Accra,2,between 0 and 2.5,-0.2,5.56
+Onitsha,4.9,between 2.5 and 5,6.79,6.15
+Medellín,2.4,between 0 and 2.5,-75.56,6.25
+Monrovia,2.8,between 2.5 and 5,-10.8,6.3
+Benin City,2.9,between 2.5 and 5,5.63,6.34
+Lagos,3.9,between 2.5 and 5,3.4,6.45
+Kumasi,5.2,5 or more,-1.62,6.69
+Davao City,2.3,between 0 and 2.5,125.61,7.07
+Bucaramanga,2.3,between 0 and 2.5,-73.12,7.13
+Ibadan,2.3,between 0 and 2.5,3.9,7.39
+Freetown,2.5,between 2.5 and 5,-13.23,8.48
+Thiruvananthapuram,3.5,between 2.5 and 5,76.96,8.51
+Kollam,5.5,5 or more,76.59,8.88
+Ciudad de Panamá (Panama City),2.1,between 0 and 2.5,-79.52,9
+Addis Ababa,2.1,between 0 and 2.5,38.75,9.02
+Abuja,7.1,5 or more,7.49,9.06
+Conakry,3,between 2.5 and 5,-13.65,9.57
+San José,0.9,between 0 and 2.5,-84.08,9.93
+Kochi (Cochin),3.1,between 2.5 and 5,76.26,9.93
+Madurai,2,between 0 and 2.5,78.12,9.93
+Can Tho,6.5,5 or more,105.78,10.03
+Barquisimeto,0.6,between 0 and 2.5,-69.32,10.07
+Valencia,1.5,between 0 and 2.5,-68.01,10.16
+Maracay,1.7,between 0 and 2.5,-67.6,10.25
+Cartagena,2.6,between 2.5 and 5,-75.51,10.4
+Caracas,0.1,between 0 and 2.5,-66.88,10.49
+Thrissur,5.3,5 or more,76.22,10.52
+Kaduna,1.2,between 0 and 2.5,7.44,10.52
+Maracaibo,1.6,between 0 and 2.5,-71.64,10.63
+Thành Pho Ho Chí Minh (Ho Chi Minh City),3.3,between 2.5 and 5,106.67,10.75
+Tiruchirappalli,1.8,between 0 and 2.5,78.69,10.81
+Barranquilla,1.7,between 0 and 2.5,-74.8,10.96
+Coimbatore,3.9,between 2.5 and 5,76.96,10.99
+Malappuram,6.2,5 or more,76.07,11.07
+Tiruppur,5.7,5 or more,77.35,11.12
+Kozhikode (Calicut),4.6,between 2.5 and 5,75.78,11.26
+Phnum Pénh (Phnom Penh),2.7,between 2.5 and 5,104.92,11.56
+Salem,2.1,between 0 and 2.5,78.17,11.65
+Kannur,6.3,5 or more,75.37,11.87
+Kano,2.2,between 0 and 2.5,8.52,12
+N’Djaména,3.9,between 2.5 and 5,15.04,12.11
+Mysore,2.2,between 0 and 2.5,76.64,12.3
+Ouagadougou,7.2,5 or more,-1.54,12.36
+Bamako,5.3,5 or more,-8,12.65
+Bangalore,3.9,between 2.5 and 5,77.59,12.97
+Niamey,3,between 2.5 and 5,2.11,13.51
+Samut Prakan,10.2,5 or more,100.6,13.6
+San Salvador,0.2,between 0 and 2.5,-89.19,13.69
+Krung Thep (Bangkok),2.5,between 2.5 and 5,100.53,13.72
+Tegucigalpa,2.6,between 2.5 and 5,-87.21,14.08
+Manila,1.7,between 0 and 2.5,120.98,14.6
+Ciudad de Guatemala (Guatemala City),2.6,between 2.5 and 5,-90.53,14.61
+Dakar,3.7,between 2.5 and 5,-17.44,14.69
+Sana’a’,5.2,5 or more,44.21,15.35
+Hubli-Dharwad,1.8,between 0 and 2.5,75.01,15.46
+Al-Khartum (Khartoum),2.5,between 2.5 and 5,32.53,15.55
+Vijayawada,3.8,between 2.5 and 5,80.62,16.52
+Yangon,2,between 0 and 2.5,96.16,16.81
+Hyderabad,3.3,between 2.5 and 5,78.47,17.38
+Visakhapatnam,2.6,between 2.5 and 5,83.21,17.68
+Vientiane,5.4,5 or more,102.6,17.97
+San Juan,-0.1,negative,-66.11,18.47
+Santo Domingo,2.6,between 2.5 and 5,-69.9,18.49
+Pune (Poona),3,between 2.5 and 5,73.86,18.52
+Port-au-Prince,2.5,between 2.5 and 5,-72.34,18.54
+Cuernavaca,1.4,between 0 and 2.5,-99.25,18.92
+Puebla,1.8,between 0 and 2.5,-98.2,19.04
+Mumbai (Bombay),1.7,between 0 and 2.5,72.88,19.07
+Toluca de Lerdo,2.2,between 0 and 2.5,-99.66,19.28
+Ciudad de México (Mexico City),0.9,between 0 and 2.5,-99.14,19.43
+Nay Pyi Taw,NA,null,96.13,19.75
+Aurangabad,2.9,between 2.5 and 5,75.34,19.88
+Nashik,3.1,between 2.5 and 5,73.8,19.98
+Bhubaneswar,3,between 2.5 and 5,85.83,20.23
+Querétaro,2.8,between 2.5 and 5,-100.38,20.6
+Guadalajara,1.7,between 0 and 2.5,-103.33,20.67
+Hai Phòng,3.9,between 2.5 and 5,106.68,20.86
+Mérida,1.8,between 0 and 2.5,-89.62,20.97
+Hà Noi,5.2,5 or more,105.84,21.02
+León de los Aldamas,2.3,between 0 and 2.5,-101.68,21.12
+Nagpur,1.6,between 0 and 2.5,79.1,21.15
+Surat,4.9,between 2.5 and 5,72.83,21.17
+Durg-Bhilainagar,1.5,between 0 and 2.5,81.28,21.19
+Raipur,4.7,between 2.5 and 5,81.63,21.23
+Zhanjiang,2.2,between 0 and 2.5,110.36,21.27
+Makkah (Mecca),2.7,between 2.5 and 5,39.82,21.42
+Jiddah,3.2,between 2.5 and 5,39.22,21.52
+Aguascalientes,2,between 0 and 2.5,-102.3,21.88
+Mandalay,2.4,between 0 and 2.5,96.08,21.97
+San Luis Potosí,1.9,between 0 and 2.5,-100.98,22.15
+Zhuhai,2.8,between 2.5 and 5,113.57,22.28
+Hong Kong,0.5,between 0 and 2.5,114.19,22.28
+Rajkot,3.3,between 2.5 and 5,70.78,22.3
+Vadodara,2,between 0 and 2.5,73.2,22.3
+Chittagong,2.1,between 0 and 2.5,91.84,22.33
+Zhongshan,6.5,5 or more,113.38,22.52
+Kolkata (Calcutta),0.9,between 0 and 2.5,88.36,22.53
+Shenzhen,3.1,between 2.5 and 5,114.06,22.54
+Kaohsiung,0.2,between 0 and 2.5,120.32,22.63
+Indore,2.8,between 2.5 and 5,75.83,22.72
+Jamshedpur,2,between 0 and 2.5,86.18,22.8
+Khulna,-1.3,negative,89.56,22.81
+Nanning,4.5,between 2.5 and 5,108.32,22.82
+Dongguan,4.5,between 2.5 and 5,113.74,23.02
+Foshan,3.8,between 2.5 and 5,113.12,23.02
+Ahmadabad,3.4,between 2.5 and 5,72.62,23.03
+La Habana (Havana),-0.2,negative,-82.38,23.12
+"Guangzhou, Guangdong",3.6,between 2.5 and 5,113.26,23.13
+Jabalpur,1.3,between 0 and 2.5,79.95,23.17
+Bhopal,2.6,between 2.5 and 5,77.4,23.27
+Puning,3.4,between 2.5 and 5,116.16,23.3
+Ranchi,2.7,between 2.5 and 5,85.33,23.35
+Shantou,2,between 0 and 2.5,116.71,23.37
+Chaozhou,4.2,between 2.5 and 5,116.64,23.67
+Asansol,1.4,between 0 and 2.5,86.98,23.68
+Dhaka,3.6,between 2.5 and 5,90.41,23.71
+Dhanbad,1.2,between 0 and 2.5,86.45,23.8
+Taichung,1.5,between 0 and 2.5,120.67,24.14
+Liuzhou,3,between 2.5 and 5,109.38,24.3
+Al-Madinah (Medina),3.1,between 2.5 and 5,39.61,24.46
+Abu Zaby (Abu Dhabi),5.3,5 or more,54.36,24.46
+Xiamen,7.5,5 or more,118.08,24.48
+Ar-Riyadh (Riyadh),3.8,between 2.5 and 5,46.71,24.69
+Quanzhou,4.3,between 2.5 and 5,118.6,24.9
+Karachi,3.3,between 2.5 and 5,67.08,24.91
+Kunming,2.5,between 2.5 and 5,102.72,25.04
+Taipei,0.1,between 0 and 2.5,121.55,25.05
+Kota,3.4,between 2.5 and 5,75.86,25.17
+Dubayy (Dubai),6.3,5 or more,55.31,25.27
+Guilin,1.7,between 0 and 2.5,110.29,25.28
+Varanasi (Benares),1.7,between 0 and 2.5,82.98,25.32
+Sharjah,6.9,5 or more,55.4,25.36
+Hyderabad,2.5,between 2.5 and 5,68.37,25.37
+Putian,5.6,5 or more,119.01,25.44
+Allahabad,1.5,between 0 and 2.5,81.85,25.45
+Torreón,1.8,between 0 and 2.5,-103.46,25.54
+Patna,1.9,between 0 and 2.5,85.12,25.6
+Monterrey,1.9,between 0 and 2.5,-100.32,25.67
+Miami,1.1,between 0 and 2.5,-80.2,25.79
+"Fuzhou, Fujian",3.3,between 2.5 and 5,119.3,26.08
+Guwahati (Gauhati),1.8,between 0 and 2.5,91.75,26.17
+Gwalior,2.4,between 0 and 2.5,78.18,26.22
+Jodhpur,2.8,between 2.5 and 5,73.02,26.24
+Ad-Dammam,3.3,between 2.5 and 5,50.1,26.43
+Kanpur,0.9,between 0 and 2.5,80.35,26.47
+Guiyang,2.9,between 2.5 and 5,106.72,26.58
+Lucknow,2.5,between 2.5 and 5,80.92,26.85
+Jaipur,2.8,between 2.5 and 5,75.82,26.92
+Agra,2.8,between 2.5 and 5,78.02,27.18
+Kathmandu,4,between 2.5 and 5,85.32,27.7
+Ruian,3.7,between 2.5 and 5,120.68,27.78
+"Xiangtan, Hunan",2.4,between 0 and 2.5,112.93,27.83
+Zhuzhou,1.8,between 0 and 2.5,113.15,27.83
+Aligarh,3.1,between 2.5 and 5,78.08,27.88
+Tampa-St. Petersburg,1.6,between 0 and 2.5,-82.46,27.95
+Wenzhou,4.7,between 2.5 and 5,120.67,28
+Changsha,3.6,between 2.5 and 5,112.94,28.23
+Bareilly,2.9,between 2.5 and 5,79.42,28.35
+Orlando,2.6,between 2.5 and 5,-81.38,28.54
+"Taizhou, Zhejiang",3.4,between 2.5 and 5,121.42,28.64
+Delhi,3.2,between 2.5 and 5,77.22,28.67
+Nanchang,2.8,between 2.5 and 5,115.88,28.68
+Moradabad,3.3,between 2.5 and 5,78.78,28.83
+Meerut,2,between 0 and 2.5,77.72,28.97
+Jinhua,6.7,5 or more,119.65,29.08
+Yiwu,4.7,between 2.5 and 5,120.08,29.32
+Al Kuwayt (Kuwait City),5,5 or more,47.98,29.35
+San Antonio,2.8,between 2.5 and 5,-98.49,29.42
+Chongqing,3.5,between 2.5 and 5,106.55,29.56
+Shiraz,2.7,between 2.5 and 5,52.54,29.6
+Houston,2.5,between 2.5 and 5,-95.37,29.76
+Ningbo,4.3,between 2.5 and 5,121.55,29.88
+Shaoxing,4.1,between 2.5 and 5,120.57,30.01
+Al-Qahirah (Cairo),2.1,between 0 and 2.5,31.24,30.04
+Cixi,4.6,between 2.5 and 5,121.25,30.18
+Multan,2.8,between 2.5 and 5,71.48,30.18
+Multan,2.8,between 2.5 and 5,71.48,30.18
+Quetta,3.9,between 2.5 and 5,67.01,30.2
+Quetta,3.9,between 2.5 and 5,67.01,30.2
+Austin,4.1,between 2.5 and 5,-97.74,30.27
+"Jacksonville, Florida",1.8,between 0 and 2.5,-81.66,30.33
+Al-Basrah (Basra),2,between 0 and 2.5,47.81,30.5
+Wuhan,1.2,between 0 and 2.5,114.27,30.58
+Chengdu,3.9,between 2.5 and 5,104.07,30.67
+Yichang,4,between 2.5 and 5,111.28,30.71
+Chandigarh,2.4,between 0 and 2.5,76.79,30.73
+Jiaxing,5.2,5 or more,120.75,30.77
+Jiaxing,5.2,5 or more,120.75,30.77
+Nanchong,3.6,between 2.5 and 5,106.08,30.8
+Ludhiana,1.5,between 0 and 2.5,75.85,30.9
+Al-Iskandariyah (Alexandria),2,between 0 and 2.5,29.9,31.19
+Shanghai,3.5,between 2.5 and 5,121.46,31.22
+"Suzhou, Jiangsu",6.3,5 or more,120.59,31.3
+Ahvaz,2.3,between 0 and 2.5,48.67,31.32
+"Wuhu, Anhui",5.4,5 or more,118.38,31.33
+Faisalabad,3.4,between 2.5 and 5,73.08,31.42
+"Mianyang, Sichuan",2.2,between 0 and 2.5,104.74,31.48
+"Wuxi, Jiangsu",3.3,between 2.5 and 5,120.3,31.54
+Lahore,3.1,between 2.5 and 5,74.34,31.55
+Amritsar,1.6,between 0 and 2.5,74.88,31.63
+Marrakech,2.8,between 2.5 and 5,-8.01,31.63
+Ciudad Juárez,0.9,between 0 and 2.5,-106.48,31.73
+"Changzhou, Jiangsu",3.7,between 2.5 and 5,119.96,31.79
+Amman,0.8,between 0 and 2.5,35.95,31.96
+Nantong,4.5,between 2.5 and 5,120.87,31.99
+Xiangyang,1.6,between 0 and 2.5,112.14,32.01
+"Nanjing, Jiangsu",3.6,between 2.5 and 5,118.79,32.05
+Tel Aviv-Yafo (Tel Aviv-Jaffa),1.8,between 0 and 2.5,34.78,32.08
+Gujranwala,3.6,between 2.5 and 5,74.18,32.15
+"Zhenjiang, Jiangsu",2.3,between 0 and 2.5,119.45,32.2
+Yangzhou,2.5,between 2.5 and 5,119.42,32.39
+"Taizhou, Jiangsu",2.7,between 2.5 and 5,119.9,32.49
+Tijuana,2.5,between 2.5 and 5,-117.02,32.53
+Mexicali,2,between 0 and 2.5,-115.47,32.65
+Esfahan,2,between 0 and 2.5,51.68,32.66
+San Diego,1,between 0 and 2.5,-117.16,32.72
+Dallas-Fort Worth,2.1,between 0 and 2.5,-97.32,32.73
+Hefa (Haifa),1.2,between 0 and 2.5,34.99,32.81
+Tarabulus (Tripoli),0.6,between 0 and 2.5,13.19,32.88
+"Nanyang, Henan",2.7,between 2.5 and 5,112.53,33
+Baghdad,1.7,between 0 and 2.5,44.4,33.34
+"Yancheng, Jiangsu",5,5 or more,120.16,33.36
+Phoenix-Mesa,2.2,between 0 and 2.5,-112.07,33.45
+Dimashq (Damascus),1.6,between 0 and 2.5,36.31,33.51
+Dar-el-Beida (Casablanca),0.8,between 0 and 2.5,-7.62,33.59
+Rawalpindi,3.3,between 2.5 and 5,73.07,33.6
+Rawalpindi,3.3,between 2.5 and 5,73.07,33.6
+Kitakyushu-Fukuoka M.M.A.,0.1,between 0 and 2.5,130.42,33.61
+Islamabad,5.5,5 or more,73.06,33.7
+"Pingdingshan, Henan",3,between 2.5 and 5,113.3,33.74
+Atlanta,2.5,between 2.5 and 5,-84.4,33.76
+Bayrut (Beirut),2.6,between 2.5 and 5,35.48,33.9
+Riverside-San Bernardino,2.4,between 0 and 2.5,-117.4,33.95
+Suqian,6.4,5 or more,118.29,33.97
+Peshawar,3.2,between 2.5 and 5,71.56,34
+Peshawar,3.2,between 2.5 and 5,71.56,34
+Rabat,1.8,between 0 and 2.5,-6.83,34.01
+Los Angeles-Long Beach-Santa Ana,0.3,between 0 and 2.5,-118.24,34.03
+Fès,2,between 0 and 2.5,-5,34.04
+Srinagar,2.7,between 2.5 and 5,74.8,34.08
+Xuzhou,2.2,between 0 and 2.5,117.19,34.26
+"Xi’an, Shaanxi",3.3,between 2.5 and 5,108.94,34.29
+Baoji,3,between 2.5 and 5,107.2,34.37
+Hiroshima,0.4,between 0 and 2.5,132.46,34.39
+Kabul,4.4,between 2.5 and 5,69.17,34.53
+Lianyungang,4.4,between 2.5 and 5,119.18,34.6
+Luoyang,3.4,between 2.5 and 5,112.46,34.62
+Qom,2.4,between 0 and 2.5,50.88,34.64
+Kinki M.M.A. (Osaka),0.5,between 0 and 2.5,135.55,34.68
+Hims (Homs),4.3,between 2.5 and 5,36.72,34.73
+Zhengzhou,3.9,between 2.5 and 5,113.65,34.76
+Zaozhuang,1.2,between 0 and 2.5,117.55,34.86
+Shizuoka-Hamamatsu M.M.A.,6.6,5 or more,138.38,34.98
+"Linyi, Shandong",2.7,between 2.5 and 5,118.33,35.05
+Busan,-0.7,negative,129.04,35.1
+Hamah,6,5 or more,36.76,35.13
+Memphis,0.8,between 0 and 2.5,-90.05,35.14
+Gwangju,0.9,between 0 and 2.5,126.92,35.15
+Chukyo M.M.A. (Nagoya),0.5,between 0 and 2.5,136.91,35.18
+Charlotte,4.9,between 2.5 and 5,-80.84,35.23
+Changwon,-0.2,negative,128.68,35.23
+Xinxiang,1.7,between 0 and 2.5,113.9,35.3
+Rizhao,3.6,between 2.5 and 5,119.51,35.4
+"Jining, Shandong",1.5,between 0 and 2.5,116.58,35.41
+Sulaimaniya,3.7,between 2.5 and 5,45.44,35.56
+Tokyo,0.6,between 0 and 2.5,139.69,35.69
+Tehran,1.1,between 0 and 2.5,51.42,35.69
+Raleigh,4.8,between 2.5 and 5,-78.64,35.78
+Tanger,3.4,between 2.5 and 5,-5.81,35.78
+Karaj,3.4,between 2.5 and 5,51.01,35.84
+Daegu,-0.2,negative,128.59,35.87
+Lanzhou,2.4,between 0 and 2.5,103.79,36.06
+Anyang,4.9,between 2.5 and 5,114.35,36.09
+Qingdao,2.9,between 2.5 and 5,120.37,36.1
+Nashville-Davidson,2.5,between 2.5 and 5,-86.78,36.16
+Las Vegas,3.5,between 2.5 and 5,-115.14,36.17
+"Taian, Shandong",1.9,between 0 and 2.5,117.12,36.19
+Irbil (Erbil),2.9,between 2.5 and 5,44.01,36.19
+Halab (Aleppo),3.1,between 2.5 and 5,37.16,36.21
+Mashhad,2.5,between 2.5 and 5,59.61,36.3
+Daejon,1,between 0 and 2.5,127.42,36.32
+Al-Mawsil (Mosul),3.2,between 2.5 and 5,43.12,36.34
+Xining,3,between 2.5 and 5,101.77,36.62
+Weifang,3.8,between 2.5 and 5,119.1,36.71
+El Djazaïr  (Algiers),1.3,between 0 and 2.5,3.04,36.75
+Zibo,1.7,between 0 and 2.5,118.06,36.79
+Tunis,0.8,between 0 and 2.5,10.17,36.82
+Virginia Beach,0.3,between 0 and 2.5,-76.09,36.83
+Antalya,3.8,between 2.5 and 5,30.7,36.91
+Adana,3.2,between 2.5 and 5,35.33,37
+Gaziantep,3.9,between 2.5 and 5,37.38,37.06
+Yongin,6.7,5 or more,127.2,37.24
+Suweon,1.1,between 0 and 2.5,127.02,37.26
+San Jose,0.8,between 0 and 2.5,-121.89,37.34
+Incheon,0.8,between 0 and 2.5,126.73,37.45
+Yantai,3.6,between 2.5 and 5,121.44,37.47
+Richmond,1.5,between 0 and 2.5,-77.44,37.54
+Seoul,-0.1,negative,126.98,37.57
+San Francisco-Oakland,0.1,between 0 and 2.5,-122.44,37.76
+"Taiyuan, Shanxi",2.2,between 0 and 2.5,112.55,37.86
+Konya,3.2,between 2.5 and 5,32.48,37.87
+Athínai (Athens),-0.3,negative,23.75,37.95
+Shijiazhuang,3.5,between 2.5 and 5,114.51,38.04
+Tabriz,1.4,between 0 and 2.5,46.29,38.08
+Louisville,1.2,between 0 and 2.5,-85.76,38.24
+Sendai,-0.3,negative,140.9,38.26
+Izmir,2.1,between 0 and 2.5,27.14,38.41
+Yinchuan,6.8,5 or more,106.27,38.47
+Sacramento,2.1,between 0 and 2.5,-121.49,38.58
+St. Louis,0.3,between 0 and 2.5,-90.2,38.63
+Lisboa (Lisbon),0.5,between 0 and 2.5,-9.14,38.72
+Baoding,1.5,between 0 and 2.5,115.49,38.85
+"Washington, D.C.",1.5,between 0 and 2.5,-77.04,38.9
+Dalian,3,between 2.5 and 5,121.6,38.91
+P’yongyang,0.2,between 0 and 2.5,125.75,39.03
+Cincinnati,0.7,between 0 and 2.5,-84.52,39.1
+Tianjin,3.4,between 2.5 and 5,117.19,39.11
+Kansas City,1.1,between 0 and 2.5,-94.63,39.11
+Baltimore,0.6,between 0 and 2.5,-76.61,39.29
+"Tangshan, Hebei",4.4,between 2.5 and 5,118.18,39.63
+Denver-Aurora,1.7,between 0 and 2.5,-104.98,39.73
+Indianapolis,1.9,between 0 and 2.5,-86.15,39.79
+Beijing,4.6,between 2.5 and 5,116.4,39.91
+Ankara,2.6,between 2.5 and 5,32.85,39.92
+Qinhuangdao,3,between 2.5 and 5,119.59,39.93
+Philadelphia,0.5,between 0 and 2.5,-75.16,39.95
+"Columbus, Ohio",1.8,between 0 and 2.5,-83,39.96
+Datong,2.5,between 2.5 and 5,113.29,40.08
+Yerevan,-0.4,negative,44.51,40.18
+Bursa,3.2,between 2.5 and 5,29.06,40.19
+Baku,1.9,between 0 and 2.5,49.89,40.38
+Madrid,1.4,between 0 and 2.5,-3.7,40.42
+Pittsburgh,-0.1,negative,-79.99,40.44
+Baotou,2.2,between 0 and 2.5,109.82,40.65
+Yingkou,3.3,between 2.5 and 5,122.23,40.66
+New York-Newark,0.3,between 0 and 2.5,-74,40.72
+Salt Lake City,1.4,between 0 and 2.5,-111.89,40.75
+Napoli (Naples),-0.1,negative,14.26,40.85
+Istanbul,3.1,between 2.5 and 5,28.95,41.01
+Jinzhou,2,between 0 and 2.5,121.14,41.11
+Anshan,0.8,between 0 and 2.5,122.99,41.12
+Porto,0.2,between 0 and 2.5,-8.61,41.15
+Tashkent,0.4,between 0 and 2.5,69.22,41.26
+Benxi,1.5,between 0 and 2.5,123.77,41.29
+Barcelona,1.2,between 0 and 2.5,2.16,41.39
+Cleveland,-0.1,negative,-81.69,41.5
+Tbilisi,0.3,between 0 and 2.5,44.83,41.69
+Shenyang,2.2,between 0 and 2.5,123.43,41.79
+Providence,0.1,between 0 and 2.5,-71.42,41.82
+Chicago,0.3,between 0 and 2.5,-87.65,41.85
+"Fushun, Liaoning",-0.3,negative,123.95,41.88
+Roma (Rome),0.6,between 0 and 2.5,12.48,41.89
+Chifeng,2.7,between 2.5 and 5,118.92,42.26
+Boston,0.3,between 0 and 2.5,-71.06,42.35
+Detroit,-0.5,negative,-83.1,42.39
+Sofia,0.5,between 0 and 2.5,23.32,42.7
+Milwaukee,0.5,between 0 and 2.5,-87.91,43.04
+Sapporo,0.1,between 0 and 2.5,141.35,43.06
+Almaty,1.8,between 0 and 2.5,76.91,43.25
+Marseille-Aix-en-Provence,0.6,between 0 and 2.5,5.44,43.53
+Toronto,1.7,between 0 and 2.5,-79.42,43.7
+Ürümqi (Wulumqi),4.4,between 2.5 and 5,87.6,43.83
+Jilin,1,between 0 and 2.5,126.56,43.85
+Changchun,2.1,between 0 and 2.5,125.29,43.88
+Bucuresti (Bucharest),-0.3,negative,26.1,44.43
+Beograd (Belgrade),0.3,between 0 and 2.5,20.46,44.82
+Minneapolis-St. Paul,1,between 0 and 2.5,-93.27,44.97
+Torino (Turin),0.3,between 0 and 2.5,7.68,45.07
+Ottawa-Gatineau,1.5,between 0 and 2.5,-75.7,45.42
+Montréal,1,between 0 and 2.5,-73.59,45.51
+Portland,1.5,between 0 and 2.5,-122.68,45.52
+Milano (Milan),0.2,between 0 and 2.5,9.18,45.55
+Lyon,0.7,between 0 and 2.5,4.85,45.75
+Odesa,-0.2,negative,30.73,46.48
+Daqing,2.7,between 2.5 and 5,125,46.58
+Rostov-na-Donu (Rostov-on-Don),0.2,between 0 and 2.5,39.7,47.22
+Qiqihaer,1.3,between 0 and 2.5,123.97,47.34
+Zürich (Zurich),1,between 0 and 2.5,8.5,47.36
+Budapest,-0.3,negative,19.04,47.5
+Seattle,1.2,between 0 and 2.5,-122.33,47.63
+Ulaanbaatar,3.9,between 2.5 and 5,106.88,47.91
+München (Munich),1.2,between 0 and 2.5,11.57,48.14
+Wien (Vienna),0.8,between 0 and 2.5,16.37,48.21
+Volgograd,0.1,between 0 and 2.5,44.5,48.72
+Paris,0.7,between 0 and 2.5,2.35,48.85
+Vancouver,1.6,between 0 and 2.5,-123.12,49.25
+Kharkiv,-0.2,negative,36.25,49.98
+Praha (Prague),0.8,between 0 and 2.5,14.42,50.09
+Kyiv (Kiev),0.8,between 0 and 2.5,30.52,50.45
+Lille,0.2,between 0 and 2.5,3.06,50.63
+Bruxelles-Brussel,0.9,between 0 and 2.5,4.35,50.85
+Köln (Cologne),0.5,between 0 and 2.5,6.95,50.93
+Calgary,2.4,between 0 and 2.5,-114.06,51.04
+London,1.2,between 0 and 2.5,-0.13,51.51
+Warszawa (Warsaw),0.2,between 0 and 2.5,21.01,52.23
+Amsterdam,0.6,between 0 and 2.5,4.89,52.37
+Birmingham (West Midlands),0.7,between 0 and 2.5,-1.9,52.48
+Berlin,0.3,between 0 and 2.5,13.41,52.52
+Samara,-0.1,negative,50.15,53.2
+Dublin,1.1,between 0 and 2.5,-6.25,53.33
+Manchester,0.8,between 0 and 2.5,-2.24,53.48
+Edmonton,2.1,between 0 and 2.5,-113.5,53.54
+Hamburg,0.5,between 0 and 2.5,10,53.55
+West Yorkshire,1.6,between 0 and 2.5,-1.76,53.8
+Minsk,0.8,between 0 and 2.5,27.57,53.9
+Ufa,0.1,between 0 and 2.5,56.05,54.79
+Omsk,0.1,between 0 and 2.5,73.4,55
+Novosibirsk,0.3,between 0 and 2.5,82.93,55.04
+Chelyabinsk,0.4,between 0 and 2.5,61.43,55.15
+København (Copenhagen),1.1,between 0 and 2.5,12.57,55.68
+Moskva (Moscow),1.3,between 0 and 2.5,37.62,55.75
+Kazan,0.4,between 0 and 2.5,49.12,55.79
+Glasgow,0.2,between 0 and 2.5,-4.26,55.87
+Krasnoyarsk,0.7,between 0 and 2.5,92.79,56.01
+Nizhniy Novgorod,-0.6,negative,44,56.33
+Yekaterinburg,0.4,between 0 and 2.5,60.61,56.86
+Stockholm,1.4,between 0 and 2.5,18.06,59.33
+Oslo,1.6,between 0 and 2.5,10.75,59.91
+Sankt Peterburg (Saint Petersburg),0.4,between 0 and 2.5,30.33,59.93
+Helsinki,1,between 0 and 2.5,24.94,60.17
